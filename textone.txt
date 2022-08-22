@@ -1,2 +1,3 @@
 Git is  a distributed verson control system
-Git isnot free software
+Git is free software
+hello world
